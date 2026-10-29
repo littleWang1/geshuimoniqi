@@ -1,10 +1,14 @@
-这次用 9 张 App 实际页面截图，介绍个税模拟器从录入到查询的主要操作，适合学习、教学和界面演示。
+## 仿个税app界面模拟器最新版
+仅用于学习演示、界面参考、技术交流。 非官方软件，无真实税务功能。
 
-> 本产品为独立开发的模拟应用，非税务机关官方 App。图片中的单位、收入和税额均为模拟样例，不连接真实纳税记录，不办理申报或退税，不能作为纳税证明。
 
-### 1. 批量录入，先填单位和月份
+### 1. 点击我的-》，我要咨询，批量录入，先填单位和月份
+
+<img width="483" height="858" alt="image" src="https://github.com/user-attachments/assets/e75c6986-fb1f-4243-8658-d4ebf78dbe6d" />
+
 
 填写模拟单位、任职起止年月和工资金额。固定月薪适合快速准备样例，也可以设置工资区间，或增加一段工作经历。
+
 
 <div align="center"><img src="https://i-blog.csdnimg.cn/img_convert/c7785566eb7da7bc9b9e0b0b3c873cec.png" width="400" alt="批量设置模拟单位、月份和工资"></div>
 
@@ -68,8 +72,4 @@
 
 <div align="center"><img src="https://i-blog.csdnimg.cn/img_convert/4b7bda5520363f5bef18c70f410f1d88.png" width="400" alt="模拟记录所属期与本期收入扣除详情"></div>
 
-*图 9｜同一条记录的下半页。*
-
-以上为已有演示版本截图，主要展示页面和操作位置。准备虚构样例后，可以按“录入 → 生成 → 查询 → 详情”的顺序体验。
-
-项目介绍与体验说明：[就业指导 · App 产品](https://wagnzhen.top/promo.html)
+下载安装     [就业指导 · App 产品](https://wagnzhen.top/promo-detail.html?id=tax)
