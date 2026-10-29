@@ -1,6 +1,7 @@
 ## 仿个税app界面模拟器最新版
 仅用于学习演示、界面参考、技术交流。 非官方软件，无真实税务功能。
 
+下载安装     [就业指导 · App 产品](https://wagnzhen.top/promo-detail.html?id=tax)
 
 ### 1. 点击我的-》，我要咨询，批量录入，先填单位和月份
 
@@ -72,4 +73,4 @@
 
 <div align="center"><img src="https://i-blog.csdnimg.cn/img_convert/4b7bda5520363f5bef18c70f410f1d88.png" width="400" alt="模拟记录所属期与本期收入扣除详情"></div>
 
-下载安装     [就业指导 · App 产品](https://wagnzhen.top/promo-detail.html?id=tax)
+更多产品请到     [就业指导 · App 产品](https://wagnzhen.top/promo-detail.html)
